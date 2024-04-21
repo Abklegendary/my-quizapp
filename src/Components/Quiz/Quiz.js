@@ -60,7 +60,7 @@ const Quiz = () => {
 
   return (
     <div className='container'>
-      <h1>LEGEND International School Quiz App</h1>
+      <h1>Drill And Practice</h1>
       <hr />
       {result?<></>:<>
       <h2>{index+1}. {question.question}</h2>
